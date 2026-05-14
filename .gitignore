@@ -1,6 +1,7 @@
-.vs/*
-Project/x64/*
-Project/assimp-vc141-mtd.dll
-Project/assimp-vc142-mt.dll
-Project/assimp-vc142-mtd.dll
-x64
+Project/.vs/*
+Project/Project/x64/*
+Project/Project/assimp-vc141-mtd.dll
+Project/Project/assimp-vc142-mt.dll
+Project/Project/assimp-vc142-mtd.dll
+Project/x64
+Project/Project/assimp/x64
