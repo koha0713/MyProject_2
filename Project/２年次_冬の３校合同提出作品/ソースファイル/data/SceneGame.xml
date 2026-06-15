@@ -1,0 +1,641 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Objects>
+    <Object ID="0">
+        <ObjectName Value="BackGround"/>
+        <ObjectType Value="2D"/>
+        <Tag Value="BackGround"/>
+        <FileName Value=""/>
+        <Texture Value="asset/texture/RESULT_BUCK.png"/>
+        <Posision X="0" Y="0" Z="0"/>
+        <Rotation X="0" Y="0" Z="0"/>
+        <Scale X="1280" Y="720" Z="0"/>
+        <Color R="1" G="1" B="1" A="1"/>
+    </Object>
+    <Object ID="1">
+        <ObjectName Value="UI1"/>
+        <ObjectType Value="2D"/>
+        <Tag Value="UI_OK_1"/>
+        <FileName Value=""/>
+        <Texture Value="asset/texture/UI_OK.png"/>
+        <Posision X="520" Y="-200" Z="0"/>
+        <Rotation X="0" Y="0" Z="0"/>
+        <Scale X="90" Y="60" Z="0"/>
+        <Color R="1" G="1" B="1" A="1"/>
+    </Object>
+    <Object ID="2">
+        <ObjectName Value="UI2"/>
+        <ObjectType Value="2D"/>
+        <Tag Value="UI_NO_1"/>
+        <FileName Value=""/>
+        <Texture Value="asset/texture/UI_OK.png"/>
+        <Posision X="520" Y="-300" Z="0"/>
+        <Rotation X="0" Y="0" Z="0"/>
+        <Scale X="90" Y="60" Z="0"/>
+        <Color R="1" G="1" B="1" A="1"/>
+    </Object>
+        <Object ID="3">
+        <ObjectName Value="UI1"/>
+        <ObjectType Value="2D"/>
+        <Tag Value="UI_OK_2"/>
+        <FileName Value=""/>
+        <Texture Value="asset/texture/UI_NO.png"/>
+        <Posision X="520" Y="-200" Z="0"/>
+        <Rotation X="0" Y="0" Z="0"/>
+        <Scale X="90" Y="60" Z="0"/>
+        <Color R="1" G="1" B="1" A="0.6f"/>
+    </Object>
+    <Object ID="4">
+        <ObjectName Value="UI2"/>
+        <ObjectType Value="2D"/>
+        <Tag Value="UI_NO_2"/>
+        <FileName Value=""/>
+        <Texture Value="asset/texture/UI_NO.png"/>
+        <Posision X="520" Y="-300" Z="0"/>
+        <Rotation X="0" Y="0" Z="0"/>
+        <Scale X="90" Y="60" Z="0"/>
+        <Color R="1" G="1" B="1" A="0.6f"/>
+    </Object>
+    <Object ID="5">
+        <ObjectName Value="UI3"/>
+        <ObjectType Value="2D"/>
+        <Tag Value="UI_EXIT"/>
+        <FileName Value=""/>
+        <Texture Value="asset/texture/UI_TITLE.png"/>
+        <Posision X="350" Y="-200" Z="0"/>
+        <Rotation X="0" Y="0" Z="0"/>
+        <Scale X="240" Y="60" Z="0"/>
+        <Color R="1" G="1" B="1" A="1"/>
+    </Object>
+    <Object ID="6">
+        <ObjectName Value="UI4"/>
+        <ObjectType Value="2D"/>
+        <Tag Value="UI_TITLE"/>
+        <FileName Value=""/>
+        <Texture Value="asset/texture/UI_EXIT_T.png"/>
+        <Posision X="350" Y="-300" Z="0"/>
+        <Rotation X="0" Y="0" Z="0"/>
+        <Scale X="240" Y="60" Z="0"/>
+        <Color R="1" G="1" B="1" A="1"/>
+    </Object>
+        <Object ID="7">
+        <ObjectName Value="UI5"/>
+        <ObjectType Value="2D"/>
+        <Tag Value="UI_SCORE"/>
+        <FileName Value=""/>
+        <Texture Value="asset/texture/UI_SCORE.png"/>
+        <Posision X="-200" Y="-50" Z="0"/>
+        <Rotation X="0" Y="0" Z="0"/>
+        <Scale X="320" Y="90" Z="0"/>
+        <Color R="1" G="1" B="1" A="1"/>
+    </Object>
+    <Object ID="6">
+        <ObjectName Value="UI"/>
+        <ObjectType Value="2D"/>
+        <Tag Value="UI_0_0"/>
+        <FileName Value=""/>
+        <Texture Value="asset/texture/Math/0.png"/>
+        <Posision X="-30" Y="-48" Z="0"/>
+        <Rotation X="0" Y="0" Z="0"/>
+        <Scale X="110" Y="120" Z="0"/>
+        <Color R="1" G="1" B="1" A="1"/>
+    </Object>
+    <Object ID="7">
+        <ObjectName Value="UI"/>
+        <ObjectType Value="2D"/>
+        <Tag Value="UI_0_1"/>
+        <FileName Value=""/>
+        <Texture Value="asset/texture/Math/1.png"/>
+        <Posision X="-30" Y="-48" Z="0"/>
+        <Rotation X="0" Y="0" Z="0"/>
+        <Scale X="110" Y="120" Z="0"/>
+        <Color R="1" G="1" B="1" A="1"/>
+    </Object>
+    <Object ID="8">
+        <ObjectName Value="UI"/>
+        <ObjectType Value="2D"/>
+        <Tag Value="UI_0_2"/>
+        <FileName Value=""/>
+        <Texture Value="asset/texture/Math/2.png"/>
+        <Posision X="-30" Y="-48" Z="0"/>
+        <Rotation X="0" Y="0" Z="0"/>
+        <Scale X="110" Y="120" Z="0"/>
+        <Color R="1" G="1" B="1" A="1"/>
+    </Object>
+    <Object ID="9">
+        <ObjectName Value="UI"/>
+        <ObjectType Value="2D"/>
+        <Tag Value="UI_0_3"/>
+        <FileName Value=""/>
+        <Texture Value="asset/texture/Math/3.png"/>
+        <Posision X="-30" Y="-48" Z="0"/>
+        <Rotation X="0" Y="0" Z="0"/>
+        <Scale X="110" Y="120" Z="0"/>
+        <Color R="1" G="1" B="1" A="1"/>
+    </Object>
+    <Object ID="10">
+        <ObjectName Value="UI"/>
+        <ObjectType Value="2D"/>
+        <Tag Value="UI_0_4"/>
+        <FileName Value=""/>
+        <Texture Value="asset/texture/Math/4.png"/>
+        <Posision X="-30" Y="-48" Z="0"/>
+        <Rotation X="0" Y="0" Z="0"/>
+        <Scale X="110" Y="120" Z="0"/>
+        <Color R="1" G="1" B="1" A="1"/>
+    </Object>
+    <Object ID="11">
+        <ObjectName Value="UI"/>
+        <ObjectType Value="2D"/>
+        <Tag Value="UI_0_5"/>
+        <FileName Value=""/>
+        <Texture Value="asset/texture/Math/5.png"/>
+        <Posision X="-30" Y="-48" Z="0"/>
+        <Rotation X="0" Y="0" Z="0"/>
+        <Scale X="110" Y="120" Z="0"/>
+        <Color R="1" G="1" B="1" A="1"/>
+    </Object>
+    <Object ID="12">
+        <ObjectName Value="UI"/>
+        <ObjectType Value="2D"/>
+        <Tag Value="UI_0_6"/>
+        <FileName Value=""/>
+        <Texture Value="asset/texture/Math/6.png"/>
+        <Posision X="-30" Y="-48" Z="0"/>
+        <Rotation X="0" Y="0" Z="0"/>
+        <Scale X="110" Y="120" Z="0"/>
+        <Color R="1" G="1" B="1" A="1"/>
+    </Object>
+    <Object ID="13">
+        <ObjectName Value="UI"/>
+        <ObjectType Value="2D"/>
+        <Tag Value="UI_0_7"/>
+        <FileName Value=""/>
+        <Texture Value="asset/texture/Math/7.png"/>
+        <Posision X="-30" Y="-48" Z="0"/>
+        <Rotation X="0" Y="0" Z="0"/>
+        <Scale X="110" Y="120" Z="0"/>
+        <Color R="1" G="1" B="1" A="1"/>
+    </Object>
+    <Object ID="14">
+        <ObjectName Value="UI"/>
+        <ObjectType Value="2D"/>
+        <Tag Value="UI_0_8"/>
+        <FileName Value=""/>
+        <Texture Value="asset/texture/Math/8.png"/>
+        <Posision X="-30" Y="-48" Z="0"/>
+        <Rotation X="0" Y="0" Z="0"/>
+        <Scale X="110" Y="120" Z="0"/>
+        <Color R="1" G="1" B="1" A="1"/>
+    </Object>
+    <Object ID="15">
+        <ObjectName Value="UI"/>
+        <ObjectType Value="2D"/>
+        <Tag Value="UI_0_9"/>
+        <FileName Value=""/>
+        <Texture Value="asset/texture/Math/9.png"/>
+        <Posision X="-30" Y="-48" Z="0"/>
+        <Rotation X="0" Y="0" Z="0"/>
+        <Scale X="110" Y="120" Z="0"/>
+        <Color R="1" G="1" B="1" A="1"/>
+    </Object>
+    <Object ID="16">
+        <ObjectName Value="UI"/>
+        <ObjectType Value="2D"/>
+        <Tag Value="UI_1_0"/>
+        <FileName Value=""/>
+        <Texture Value="asset/texture/Math/0.png"/>
+        <Posision X="30" Y="-48" Z="0"/>
+        <Rotation X="0" Y="0" Z="0"/>
+        <Scale X="110" Y="120" Z="0"/>
+        <Color R="1" G="1" B="1" A="1"/>
+    </Object>
+    <Object ID="17">
+        <ObjectName Value="UI"/>
+        <ObjectType Value="2D"/>
+        <Tag Value="UI_1_1"/>
+        <FileName Value=""/>
+        <Texture Value="asset/texture/Math/1.png"/>
+        <Posision X="30" Y="-48" Z="0"/>
+        <Rotation X="0" Y="0" Z="0"/>
+        <Scale X="110" Y="120" Z="0"/>
+        <Color R="1" G="1" B="1" A="1"/>
+    </Object>
+    <Object ID="18">
+        <ObjectName Value="UI"/>
+        <ObjectType Value="2D"/>
+        <Tag Value="UI_1_2"/>
+        <FileName Value=""/>
+        <Texture Value="asset/texture/Math/2.png"/>
+        <Posision X="30" Y="-48" Z="0"/>
+        <Rotation X="0" Y="0" Z="0"/>
+        <Scale X="110" Y="120" Z="0"/>
+        <Color R="1" G="1" B="1" A="1"/>
+    </Object>
+    <Object ID="19">
+        <ObjectName Value="UI"/>
+        <ObjectType Value="2D"/>
+        <Tag Value="UI_1_3"/>
+        <FileName Value=""/>
+        <Texture Value="asset/texture/Math/3.png"/>
+        <Posision X="30" Y="-48" Z="0"/>
+        <Rotation X="0" Y="0" Z="0"/>
+        <Scale X="110" Y="120" Z="0"/>
+        <Color R="1" G="1" B="1" A="1"/>
+    </Object>
+    <Object ID="20">
+        <ObjectName Value="UI"/>
+        <ObjectType Value="2D"/>
+        <Tag Value="UI_1_4"/>
+        <FileName Value=""/>
+        <Texture Value="asset/texture/Math/4.png"/>
+        <Posision X="30" Y="-48" Z="0"/>
+        <Rotation X="0" Y="0" Z="0"/>
+        <Scale X="110" Y="120" Z="0"/>
+        <Color R="1" G="1" B="1" A="1"/>
+    </Object>
+    <Object ID="21">
+        <ObjectName Value="UI"/>
+        <ObjectType Value="2D"/>
+        <Tag Value="UI_1_5"/>
+        <FileName Value=""/>
+        <Texture Value="asset/texture/Math/5.png"/>
+        <Posision X="30" Y="-48" Z="0"/>
+        <Rotation X="0" Y="0" Z="0"/>
+        <Scale X="110" Y="120" Z="0"/>
+        <Color R="1" G="1" B="1" A="1"/>
+    </Object>
+    <Object ID="22">
+        <ObjectName Value="UI"/>
+        <ObjectType Value="2D"/>
+        <Tag Value="UI_1_6"/>
+        <FileName Value=""/>
+        <Texture Value="asset/texture/Math/6.png"/>
+        <Posision X="30" Y="-48" Z="0"/>
+        <Rotation X="0" Y="0" Z="0"/>
+        <Scale X="110" Y="120" Z="0"/>
+        <Color R="1" G="1" B="1" A="1"/>
+    </Object>
+    <Object ID="23">
+        <ObjectName Value="UI"/>
+        <ObjectType Value="2D"/>
+        <Tag Value="UI_1_7"/>
+        <FileName Value=""/>
+        <Texture Value="asset/texture/Math/7.png"/>
+        <Posision X="30" Y="-48" Z="0"/>
+        <Rotation X="0" Y="0" Z="0"/>
+        <Scale X="110" Y="120" Z="0"/>
+        <Color R="1" G="1" B="1" A="1"/>
+    </Object>
+    <Object ID="24">
+        <ObjectName Value="UI"/>
+        <ObjectType Value="2D"/>
+        <Tag Value="UI_1_8"/>
+        <FileName Value=""/>
+        <Texture Value="asset/texture/Math/8.png"/>
+        <Posision X="30" Y="-48" Z="0"/>
+        <Rotation X="0" Y="0" Z="0"/>
+        <Scale X="110" Y="120" Z="0"/>
+        <Color R="1" G="1" B="1" A="1"/>
+    </Object>
+    <Object ID="25">
+        <ObjectName Value="UI"/>
+        <ObjectType Value="2D"/>
+        <Tag Value="UI_1_9"/>
+        <FileName Value=""/>
+        <Texture Value="asset/texture/Math/9.png"/>
+        <Posision X="30" Y="-48" Z="0"/>
+        <Rotation X="0" Y="0" Z="0"/>
+        <Scale X="110" Y="120" Z="0"/>
+        <Color R="1" G="1" B="1" A="1"/>
+    </Object>
+    <Object ID="26">
+        <ObjectName Value="UI"/>
+        <ObjectType Value="2D"/>
+        <Tag Value="UI_2_0"/>
+        <FileName Value=""/>
+        <Texture Value="asset/texture/Math/0.png"/>
+        <Posision X="90" Y="-48" Z="0"/>
+        <Rotation X="0" Y="0" Z="0"/>
+        <Scale X="110" Y="120" Z="0"/>
+        <Color R="1" G="1" B="1" A="1"/>
+    </Object>
+    <Object ID="27">
+        <ObjectName Value="UI"/>
+        <ObjectType Value="2D"/>
+        <Tag Value="UI_2_1"/>
+        <FileName Value=""/>
+        <Texture Value="asset/texture/Math/1.png"/>
+        <Posision X="90" Y="-48" Z="0"/>
+        <Rotation X="0" Y="0" Z="0"/>
+        <Scale X="110" Y="120" Z="0"/>
+        <Color R="1" G="1" B="1" A="1"/>
+    </Object>
+    <Object ID="28">
+        <ObjectName Value="UI"/>
+        <ObjectType Value="2D"/>
+        <Tag Value="UI_2_2"/>
+        <FileName Value=""/>
+        <Texture Value="asset/texture/Math/2.png"/>
+        <Posision X="90" Y="-48" Z="0"/>
+        <Rotation X="0" Y="0" Z="0"/>
+        <Scale X="110" Y="120" Z="0"/>
+        <Color R="1" G="1" B="1" A="1"/>
+    </Object>
+    <Object ID="29">
+        <ObjectName Value="UI"/>
+        <ObjectType Value="2D"/>
+        <Tag Value="UI_2_3"/>
+        <FileName Value=""/>
+        <Texture Value="asset/texture/Math/3.png"/>
+        <Posision X="90" Y="-48" Z="0"/>
+        <Rotation X="0" Y="0" Z="0"/>
+        <Scale X="110" Y="120" Z="0"/>
+        <Color R="1" G="1" B="1" A="1"/>
+    </Object>
+    <Object ID="30">
+        <ObjectName Value="UI"/>
+        <ObjectType Value="2D"/>
+        <Tag Value="UI_2_4"/>
+        <FileName Value=""/>
+        <Texture Value="asset/texture/Math/4.png"/>
+        <Posision X="90" Y="-48" Z="0"/>
+        <Rotation X="0" Y="0" Z="0"/>
+        <Scale X="110" Y="120" Z="0"/>
+        <Color R="1" G="1" B="1" A="1"/>
+    </Object>
+    <Object ID="31">
+        <ObjectName Value="UI"/>
+        <ObjectType Value="2D"/>
+        <Tag Value="UI_2_5"/>
+        <FileName Value=""/>
+        <Texture Value="asset/texture/Math/5.png"/>
+        <Posision X="90" Y="-48" Z="0"/>
+        <Rotation X="0" Y="0" Z="0"/>
+        <Scale X="110" Y="120" Z="0"/>
+        <Color R="1" G="1" B="1" A="1"/>
+    </Object>
+    <Object ID="32">
+        <ObjectName Value="UI"/>
+        <ObjectType Value="2D"/>
+        <Tag Value="UI_2_6"/>
+        <FileName Value=""/>
+        <Texture Value="asset/texture/Math/6.png"/>
+        <Posision X="90" Y="-48" Z="0"/>
+        <Rotation X="0" Y="0" Z="0"/>
+        <Scale X="110" Y="120" Z="0"/>
+        <Color R="1" G="1" B="1" A="1"/>
+    </Object>
+    <Object ID="33">
+        <ObjectName Value="UI"/>
+        <ObjectType Value="2D"/>
+        <Tag Value="UI_2_7"/>
+        <FileName Value=""/>
+        <Texture Value="asset/texture/Math/7.png"/>
+        <Posision X="90" Y="-48" Z="0"/>
+        <Rotation X="0" Y="0" Z="0"/>
+        <Scale X="110" Y="120" Z="0"/>
+        <Color R="1" G="1" B="1" A="1"/>
+    </Object>
+    <Object ID="34">
+        <ObjectName Value="UI"/>
+        <ObjectType Value="2D"/>
+        <Tag Value="UI_2_8"/>
+        <FileName Value=""/>
+        <Texture Value="asset/texture/Math/8.png"/>
+        <Posision X="90" Y="-48" Z="0"/>
+        <Rotation X="0" Y="0" Z="0"/>
+        <Scale X="110" Y="120" Z="0"/>
+        <Color R="1" G="1" B="1" A="1"/>
+    </Object>
+    <Object ID="35">
+        <ObjectName Value="UI"/>
+        <ObjectType Value="2D"/>
+        <Tag Value="UI_2_9"/>
+        <FileName Value=""/>
+        <Texture Value="asset/texture/Math/9.png"/>
+        <Posision X="90" Y="-48" Z="0"/>
+        <Rotation X="0" Y="0" Z="0"/>
+        <Scale X="110" Y="120" Z="0"/>
+        <Color R="1" G="1" B="1" A="1"/>
+    </Object>
+    <Object ID="36">
+        <ObjectName Value="UI"/>
+        <ObjectType Value="2D"/>
+        <Tag Value="UI_3_0"/>
+        <FileName Value=""/>
+        <Texture Value="asset/texture/Math/0.png"/>
+        <Posision X="150" Y="-48" Z="0"/>
+        <Rotation X="0" Y="0" Z="0"/>
+        <Scale X="110" Y="120" Z="0"/>
+        <Color R="1" G="1" B="1" A="1"/>
+    </Object>
+    <Object ID="37">
+        <ObjectName Value="UI"/>
+        <ObjectType Value="2D"/>
+        <Tag Value="UI_3_1"/>
+        <FileName Value=""/>
+        <Texture Value="asset/texture/Math/1.png"/>
+        <Posision X="150" Y="-48" Z="0"/>
+        <Rotation X="0" Y="0" Z="0"/>
+        <Scale X="110" Y="120" Z="0"/>
+        <Color R="1" G="1" B="1" A="1"/>
+    </Object>
+    <Object ID="38">
+        <ObjectName Value="UI"/>
+        <ObjectType Value="2D"/>
+        <Tag Value="UI_3_2"/>
+        <FileName Value=""/>
+        <Texture Value="asset/texture/Math/2.png"/>
+        <Posision X="150" Y="-48" Z="0"/>
+        <Rotation X="0" Y="0" Z="0"/>
+        <Scale X="110" Y="120" Z="0"/>
+        <Color R="1" G="1" B="1" A="1"/>
+    </Object>
+    <Object ID="39">
+        <ObjectName Value="UI"/>
+        <ObjectType Value="2D"/>
+        <Tag Value="UI_3_3"/>
+        <FileName Value=""/>
+        <Texture Value="asset/texture/Math/3.png"/>
+        <Posision X="150" Y="-48" Z="0"/>
+        <Rotation X="0" Y="0" Z="0"/>
+        <Scale X="110" Y="120" Z="0"/>
+        <Color R="1" G="1" B="1" A="1"/>
+    </Object>
+    <Object ID="40">
+        <ObjectName Value="UI"/>
+        <ObjectType Value="2D"/>
+        <Tag Value="UI_3_4"/>
+        <FileName Value=""/>
+        <Texture Value="asset/texture/Math/4.png"/>
+        <Posision X="150" Y="-48" Z="0"/>
+        <Rotation X="0" Y="0" Z="0"/>
+        <Scale X="110" Y="120" Z="0"/>
+        <Color R="1" G="1" B="1" A="1"/>
+    </Object>
+    <Object ID="41">
+        <ObjectName Value="UI"/>
+        <ObjectType Value="2D"/>
+        <Tag Value="UI_3_5"/>
+        <FileName Value=""/>
+        <Texture Value="asset/texture/Math/5.png"/>
+        <Posision X="150" Y="-48" Z="0"/>
+        <Rotation X="0" Y="0" Z="0"/>
+        <Scale X="110" Y="120" Z="0"/>
+        <Color R="1" G="1" B="1" A="1"/>
+    </Object>
+    <Object ID="42">
+        <ObjectName Value="UI"/>
+        <ObjectType Value="2D"/>
+        <Tag Value="UI_3_6"/>
+        <FileName Value=""/>
+        <Texture Value="asset/texture/Math/6.png"/>
+        <Posision X="150" Y="-48" Z="0"/>
+        <Rotation X="0" Y="0" Z="0"/>
+        <Scale X="110" Y="120" Z="0"/>
+        <Color R="1" G="1" B="1" A="1"/>
+    </Object>
+    <Object ID="43">
+        <ObjectName Value="UI"/>
+        <ObjectType Value="2D"/>
+        <Tag Value="UI_3_7"/>
+        <FileName Value=""/>
+        <Texture Value="asset/texture/Math/7.png"/>
+        <Posision X="150" Y="-48" Z="0"/>
+        <Rotation X="0" Y="0" Z="0"/>
+        <Scale X="110" Y="120" Z="0"/>
+        <Color R="1" G="1" B="1" A="1"/>
+    </Object>
+    <Object ID="44">
+        <ObjectName Value="UI"/>
+        <ObjectType Value="2D"/>
+        <Tag Value="UI_3_8"/>
+        <FileName Value=""/>
+        <Texture Value="asset/texture/Math/8.png"/>
+        <Posision X="150" Y="-48" Z="0"/>
+        <Rotation X="0" Y="0" Z="0"/>
+        <Scale X="110" Y="120" Z="0"/>
+        <Color R="1" G="1" B="1" A="1"/>
+    </Object>
+    <Object ID="45">
+        <ObjectName Value="UI"/>
+        <ObjectType Value="2D"/>
+        <Tag Value="UI_3_9"/>
+        <FileName Value=""/>
+        <Texture Value="asset/texture/Math/9.png"/>
+        <Posision X="150" Y="-48" Z="0"/>
+        <Rotation X="0" Y="0" Z="0"/>
+        <Scale X="110" Y="120" Z="0"/>
+        <Color R="1" G="1" B="1" A="1"/>
+    </Object>
+    <Object ID="46">
+        <ObjectName Value="UI"/>
+        <ObjectType Value="2D"/>
+        <Tag Value="UI_4_0"/>
+        <FileName Value=""/>
+        <Texture Value="asset/texture/Math/0.png"/>
+        <Posision X="210" Y="-48" Z="0"/>
+        <Rotation X="0" Y="0" Z="0"/>
+        <Scale X="110" Y="120" Z="0"/>
+        <Color R="1" G="1" B="1" A="1"/>
+    </Object>
+    <Object ID="47">
+        <ObjectName Value="UI"/>
+        <ObjectType Value="2D"/>
+        <Tag Value="UI_4_1"/>
+        <FileName Value=""/>
+        <Texture Value="asset/texture/Math/1.png"/>
+        <Posision X="210" Y="-48" Z="0"/>
+        <Rotation X="0" Y="0" Z="0"/>
+        <Scale X="110" Y="120" Z="0"/>
+        <Color R="1" G="1" B="1" A="1"/>
+    </Object>
+    <Object ID="48">
+        <ObjectName Value="UI"/>
+        <ObjectType Value="2D"/>
+        <Tag Value="UI_4_2"/>
+        <FileName Value=""/>
+        <Texture Value="asset/texture/Math/2.png"/>
+        <Posision X="210" Y="-48" Z="0"/>
+        <Rotation X="0" Y="0" Z="0"/>
+        <Scale X="110" Y="120" Z="0"/>
+        <Color R="1" G="1" B="1" A="1"/>
+    </Object>
+    <Object ID="49">
+        <ObjectName Value="UI"/>
+        <ObjectType Value="2D"/>
+        <Tag Value="UI_4_3"/>
+        <FileName Value=""/>
+        <Texture Value="asset/texture/Math/3.png"/>
+        <Posision X="210" Y="-48" Z="0"/>
+        <Rotation X="0" Y="0" Z="0"/>
+        <Scale X="110" Y="120" Z="0"/>
+        <Color R="1" G="1" B="1" A="1"/>
+    </Object>
+    <Object ID="50">
+        <ObjectName Value="UI"/>
+        <ObjectType Value="2D"/>
+        <Tag Value="UI_4_4"/>
+        <FileName Value=""/>
+        <Texture Value="asset/texture/Math/4.png"/>
+        <Posision X="210" Y="-48" Z="0"/>
+        <Rotation X="0" Y="0" Z="0"/>
+        <Scale X="110" Y="120" Z="0"/>
+        <Color R="1" G="1" B="1" A="1"/>
+    </Object>
+    <Object ID="51">
+        <ObjectName Value="UI"/>
+        <ObjectType Value="2D"/>
+        <Tag Value="UI_4_5"/>
+        <FileName Value=""/>
+        <Texture Value="asset/texture/Math/5.png"/>
+        <Posision X="210" Y="-48" Z="0"/>
+        <Rotation X="0" Y="0" Z="0"/>
+        <Scale X="110" Y="120" Z="0"/>
+        <Color R="1" G="1" B="1" A="1"/>
+    </Object>
+    <Object ID="52">
+        <ObjectName Value="UI"/>
+        <ObjectType Value="2D"/>
+        <Tag Value="UI_4_6"/>
+        <FileName Value=""/>
+        <Texture Value="asset/texture/Math/6.png"/>
+        <Posision X="210" Y="-48" Z="0"/>
+        <Rotation X="0" Y="0" Z="0"/>
+        <Scale X="110" Y="120" Z="0"/>
+        <Color R="1" G="1" B="1" A="1"/>
+    </Object>
+    <Object ID="53">
+        <ObjectName Value="UI"/>
+        <ObjectType Value="2D"/>
+        <Tag Value="UI_4_7"/>
+        <FileName Value=""/>
+        <Texture Value="asset/texture/Math/7.png"/>
+        <Posision X="210" Y="-48" Z="0"/>
+        <Rotation X="0" Y="0" Z="0"/>
+        <Scale X="110" Y="120" Z="0"/>
+        <Color R="1" G="1" B="1" A="1"/>
+    </Object>
+    <Object ID="54">
+        <ObjectName Value="UI"/>
+        <ObjectType Value="2D"/>
+        <Tag Value="UI_4_8"/>
+        <FileName Value=""/>
+        <Texture Value="asset/texture/Math/8.png"/>
+        <Posision X="210" Y="-48" Z="0"/>
+        <Rotation X="0" Y="0" Z="0"/>
+        <Scale X="110" Y="120" Z="0"/>
+        <Color R="1" G="1" B="1" A="1"/>
+    </Object>
+    <Object ID="55">
+        <ObjectName Value="UI"/>
+        <ObjectType Value="2D"/>
+        <Tag Value="UI_4_9"/>
+        <FileName Value=""/>
+        <Texture Value="asset/texture/Math/9.png"/>
+        <Posision X="210" Y="-48" Z="0"/>
+        <Rotation X="0" Y="0" Z="0"/>
+        <Scale X="110" Y="120" Z="0"/>
+        <Color R="1" G="1" B="1" A="1"/>
+    </Object>
+</Objects>
